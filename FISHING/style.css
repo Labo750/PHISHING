@@ -1,0 +1,35 @@
+#white{
+    position: absolute;
+    z-index: 1;
+    top:10;
+    left: 50;
+    width: 1150;
+    height: 600;
+}
+
+#message{
+    color: black;
+    position: absolute;
+    z-index: 2;
+    left: 90;
+    font-size: 16;
+    top: 50;
+}
+
+#link{
+    color: black;
+    position: absolute;
+    z-index: 2;
+    left: 100;
+    font-size: 20;
+    top: 350;
+}
+
+#symbole{
+    position: absolute;
+    z-index: 2;
+    left: 1050;
+    top: 450;
+    height: 100;
+    width: 100;
+}
