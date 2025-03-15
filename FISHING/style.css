@@ -33,3 +33,12 @@
     height: 100;
     width: 100;
 }
+
+#stop{
+    position: absolute;
+    z-index: 1;
+    top:10;
+    left: 50;
+    width: 1150;
+    height: 600;
+}
